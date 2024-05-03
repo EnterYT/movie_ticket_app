@@ -14,13 +14,6 @@ Queen's Gambit Forum is a thematic application about "Queen's Gambit" series. Th
 **Queen's Gambit Forum** can be used by following these steps:
 1. Information about the film located in _**Main Page**_.
 2. Lists of _Actors_ and _Stuff_ is located to corresponding pages.
-3. [Step 3]
-
-## Dependencies
-- [Dependency 1]
-- [Dependency 2]
-- [Dependency 3]
-<!-- Add any libraries, frameworks, or tools your app depends on -->
 
 ## Contributing
 We welcome contributions from the community! If you want to contribute to _**Queen's Gambit Forum**_, please follow these guidelines:
